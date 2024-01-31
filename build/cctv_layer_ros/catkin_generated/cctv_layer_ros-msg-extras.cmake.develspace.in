@@ -1,0 +1,2 @@
+set(cctv_layer_ros_MESSAGE_FILES "/home/jk/catkin_ws/src/cctv_layer_ros/msg/Locations.msg;/home/jk/catkin_ws/src/cctv_layer_ros/msg/Coordinate.msg;/home/jk/catkin_ws/src/cctv_layer_ros/msg/MultiPoint.msg")
+set(cctv_layer_ros_SERVICE_FILES "")

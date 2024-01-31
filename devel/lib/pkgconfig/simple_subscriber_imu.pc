@@ -1,0 +1,8 @@
+prefix=/home/jk/catkin_ws/devel
+
+Name: simple_subscriber_imu
+Description: Description of simple_subscriber_imu
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

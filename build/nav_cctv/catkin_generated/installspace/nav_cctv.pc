@@ -1,0 +1,8 @@
+prefix=/home/jk/catkin_ws/install
+
+Name: nav_cctv
+Description: Description of nav_cctv
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lcctv_layer
+Requires: roscpp std_msgs costmap_2d dynamic_reconfigure

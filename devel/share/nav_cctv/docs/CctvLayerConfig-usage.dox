@@ -1,0 +1,8 @@
+\subsubsection usage Usage
+\verbatim
+<node name="cctv_layer" pkg="cctv_layer" type="cctv_layer">
+  <param name="enabled" type="bool" value="True" />
+  <param name="lethal_radius" type="double" value="1.0" />
+</node>
+\endverbatim
+

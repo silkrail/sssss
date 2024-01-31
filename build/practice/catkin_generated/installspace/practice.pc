@@ -1,0 +1,8 @@
+prefix=/home/jk/catkin_ws/install
+
+Name: practice
+Description: Description of practice
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy tf tf2 tf2_ros nav_msgs geometry_msgs sensor_msgs std_msgs

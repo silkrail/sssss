@@ -1,0 +1,2 @@
+set(cctv_layer_ros_MESSAGE_FILES "msg/Locations.msg;msg/Coordinate.msg;msg/MultiPoint.msg")
+set(cctv_layer_ros_SERVICE_FILES "")
